@@ -14,3 +14,17 @@ The Primary objective of telecom industry operators is the retention of high pro
 ## Data Ingestion:
 The raw data is stored in the local file system, and an AWS Linux-based instance is launched to establish a connection and transfer the on-premise data to an S3 bucket. The S3 bucket serves as a storage container for the raw data. Subsequently, a connection is set up from Tableau to access the data in the S3 bucket, enabling data feeding to the Tableau engine for chart development and visualization. <br>
 
+
+
+
+## Tableau Screenshot
+![Tableau Screenshot](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/3f70305b-2ef4-44a2-a52e-85ab32160dca) <br>
+
+
+## Business Description:
+Telecom operators are companies that provide communication services, such as voice, data, and messaging, to customers. They operate extensive networks, including cellular towers and fiber optic cables, to ensure seamless connectivity. Their primary focus is to offer reliable and high-quality services to individuals and businesses, while staying competitive in a rapidly evolving market by investing in network expansion and embracing new technologies. 
+Telecom operators also play a crucial role in enabling internet connectivity and driving digital transformation across various industries. <br>
+
+## Key Metrices:
+**Churn Rate**
+
