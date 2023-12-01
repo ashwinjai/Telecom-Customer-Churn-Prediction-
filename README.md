@@ -22,10 +22,18 @@ The raw data is stored in the local file system, and an AWS Linux-based instance
 ![Tableau Screenshot](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/3f70305b-2ef4-44a2-a52e-85ab32160dca) <br>
 
 
+
+## Key Metrices:
+**Churn Rate** <br>
+**Customer retention Rate** <br>
+**Average Revenue Per User (ARPU)** <br>
+**Average Long Distance Charges** <br>
+**Tenure Bins** <br>
+**Average Monthly download** <br>
+**Contract Terms** <br>
+**Churn Category by Age Group** <br>
+
+
 ## Business Description:
 Telecom operators are companies that provide communication services, such as voice, data, and messaging, to customers. They operate extensive networks, including cellular towers and fiber optic cables, to ensure seamless connectivity. Their primary focus is to offer reliable and high-quality services to individuals and businesses, while staying competitive in a rapidly evolving market by investing in network expansion and embracing new technologies. 
 Telecom operators also play a crucial role in enabling internet connectivity and driving digital transformation across various industries. <br>
-
-## Key Metrices:
-**Churn Rate**
-
