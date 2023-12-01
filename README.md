@@ -13,6 +13,15 @@ The Primary objective of telecom industry operators is the retention of high pro
 
 ## Data Ingestion:
 The raw data is stored in the local file system, and an AWS Linux-based instance is launched to establish a connection and transfer the on-premise data to an S3 bucket. The S3 bucket serves as a storage container for the raw data. Subsequently, a connection is set up from Tableau to access the data in the S3 bucket, enabling data feeding to the Tableau engine for chart development and visualization. <br>
+
+![Upload_Gif](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/7c8a4873-6e49-4486-a789-61cbaea7629d)
+
+
+
+
+
+## Tableau Connection:
+
 ![S3_Bucket](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/60487c03-d76a-412c-99db-a7eec3efa055)
 
 
