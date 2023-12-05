@@ -8,6 +8,10 @@ The dashboard provides a comprehensive overview of customer churn, helping telec
 In the telecom industry, customers have the flexibility to select from a range of service providers and frequently change operators.  This dynamic market experiences an average annual churn rate of 15-25%. Considering the significantly higher cost of acquiring new customers compared to retaining existing ones (5-10 times more), customer retention has become a top priority.
 The Primary objective of telecom industry operators is the retention of high profit customers. To address customer churn, telecom companies must proactively predict which customers are at a higher risk of leaving. <br>
 
+## Business Description:
+Telecom operators are companies that provide communication services, such as voice, data, and messaging, to customers. They operate extensive networks, including cellular towers and fiber optic cables, to ensure seamless connectivity. Their primary focus is to offer reliable and high-quality services to individuals and businesses, while staying competitive in a rapidly evolving market by investing in network expansion and embracing new technologies. 
+Telecom operators also play a crucial role in enabling internet connectivity and driving digital transformation across various industries. <br>
+
 ## High level architecture diagram:
 ![Flowcharts (1)](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/1d7a25be-fce6-4366-afa1-43ce7bdb8280)
 
@@ -44,6 +48,4 @@ The raw data is stored in the local file system, and an AWS Linux-based instance
 **Churn Category by Age Group** <br>
 
 
-## Business Description:
-Telecom operators are companies that provide communication services, such as voice, data, and messaging, to customers. They operate extensive networks, including cellular towers and fiber optic cables, to ensure seamless connectivity. Their primary focus is to offer reliable and high-quality services to individuals and businesses, while staying competitive in a rapidly evolving market by investing in network expansion and embracing new technologies. 
-Telecom operators also play a crucial role in enabling internet connectivity and driving digital transformation across various industries. <br>
+
