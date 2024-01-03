@@ -53,7 +53,15 @@ The raw data is stored in the local file system, and an AWS Linux-based instance
 ![image](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction-/assets/36980518/004e4a5d-0363-4bca-8bbf-9767052b0125)
 
 
-**2.1 Tenure Bins** It categorizes customers based on the length of time they have been with a company.This segmentation helps businesses analyze customer behavior, preferences, and engagement patterns at different stages of their relationship with the company. From the Dashboard we can see trend in Gender Category, Male and Female which is from 0 to 5 months Male and Female associated with company 6% each and show decreasing trend. young-adult, Middle-aged adult & Old-Aged adult Categeory associated with company for tenure for 5year is 2%, 4% & 2% Respectively. Churned Customer stayed with company 7% for period of 0 -5 months and shows decreasing trend and stayed customer show stable trend between 4% and 3%. Highest seen is 7% <br>
+**2.1 Tenure Bins** It categorizes customers based on the length of time they have been with a company.This segmentation helps businesses analyze customer behavior, preferences, and engagement patterns at different stages of their relationship with the company. It is segmented below
+
+0-6 months: New customers
+7-12 months: Early-stage customers
+13-24 months: Mid-term customers
+25-36 months: Long-term customers
+37+ months: Very long-term customers
+
+From the Dashboard we can see trend in Gender Category, Male and Female which is from 0 to 5 months Male and Female associated with company 6% each and show decreasing trend. young-adult, Middle-aged adult & Old-Aged adult Categeory associated with company for tenure for 5year is 2%, 4% & 2% Respectively. Churned Customer stayed with company 7% for period of 0 -5 months and shows decreasing trend and stayed customer show stable trend between 4% and 3%. Highest seen is 7%  <br>
 
 
 **Average Monthly download** <br>
