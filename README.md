@@ -73,7 +73,7 @@ From the Dashboard we can see trend in Gender Category, Male and Female which is
 
 ![image](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction-/assets/36980518/6bd91bde-dc00-4c00-a68c-df9fffb858bd)
 
-**2.4 Churn Category by Age Group**- It refers to the segmentation of customer churn data based on different age groups <br>
+**2.4 Churn Category by Age Group**- It refers to the segmentation of customer churn data based on different age groups and Churn Category and Higher Score is attribute given to Competitors for churn reason.  <br>
 
 
 ## Business Recommendation: 
