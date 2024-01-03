@@ -50,7 +50,12 @@ The raw data is stored in the local file system, and an AWS Linux-based instance
 
 **1.4 Average Long Distance Charges** It measures average amount of money a customer spends on long-distance phone calls or communication services over a specific period. Middle-aged adult Spent highest $754. Stayed Customer spent $942 , Churned Customer spent $434 <br> 
 
-**Tenure Bins** <br>
+![image](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction-/assets/36980518/004e4a5d-0363-4bca-8bbf-9767052b0125)
+
+
+**2.1 Tenure Bins** It categorizes customers based on the length of time they have been with a company.This segmentation helps businesses analyze customer behavior, preferences, and engagement patterns at different stages of their relationship with the company. From the Dashboard we can see trend in Gender Category, Male and Female which is from 0 to 5 months Male and Female associated with company 6% each and show decreasing trend. young-adult, Middle-aged adult & Old-Aged adult Categeory associated with company for tenure for 5year is 2%, 4% & 2% Respectively. Churned Customer stayed with company 7% for period of 0 -5 months and shows decreasing trend and stayed customer show stable trend between 4% and 3%. Highest seen is 7% <br>
+
+
 **Average Monthly download** <br>
 **Contract Terms** <br>
 **Churn Category by Age Group** <br>
