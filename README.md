@@ -32,7 +32,8 @@ The raw data is stored in the local file system, and an AWS Linux-based instance
 
 
 ## Tableau Screenshot
-![Tableau Screenshot](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/3f70305b-2ef4-44a2-a52e-85ab32160dca) <br>
+![Screenshot 2024-01-03 064007](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction-/assets/36980518/ba3d75d7-a4fe-46bc-b3a7-f9f14977cab9)
+ <br>
 
 ![ezgif com-optimize](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction/assets/36980518/c7a3eda1-29af-4549-bf67-5aaeb1425c3b)
 
