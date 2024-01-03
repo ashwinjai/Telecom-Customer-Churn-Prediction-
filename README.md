@@ -1,4 +1,4 @@
-![image](https://github.com/ashwinjai/Telecom-Customer-Churn-Prediction-/assets/36980518/3f1700a5-75f9-4456-a19d-dc22846704a0)# Telecom Customer Churn Prediction
+# Telecom Customer Churn Prediction
 
 ## Project Overview:
 The "Telecom Churn Dashboard" in Tableau is a data visualization project designed to analyze and understand customer churn patterns in the telecom industry. 
